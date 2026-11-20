@@ -1,2 +1,2 @@
 # superstore-sales.excel
-End-to-end sales data analysis using Microsoft Excel, including data cleaning, exploratory analysis, pivot tables, and interactive slicer-operable dashboard development.
+End-to-end 9994-row sales data analysis using only Microsoft Excel, including Data Cleaning, Exploratory Analysis, Pivot Tables, and a complete interactive dashboard with slicers, key findinga and KPIs.
