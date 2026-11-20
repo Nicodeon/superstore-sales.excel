@@ -48,11 +48,13 @@ Source: [Superstore Sales Dataset](https://www.mathewkanalytics.com/datasets/sup
 ![Clean Data](screenshots/02_clean_data.png)
 
 ### Analysis
-![Analysis 1](screenshots/03_analysis.png)
+![01_Analysis](screenshots/03_analysis.png)
 
-![Analysis 2](screenshots/04_analysis.png)
+![02_Analysis](screenshots/04_analysis.png)
 
-![Analysis 3](screenshots/05_analysis_details.png)
+![03_Analysis](screenshots/05_analysis_details.png)
+
+![00_Dashboard](screenshots/05_analysis_details.png)
 
 ## Project Files
 
