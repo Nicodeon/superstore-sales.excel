@@ -3,6 +3,7 @@
 ## Project Overview
 
 End-to-end 9994-row sales data analysis using only Microsoft Excel(web version), including Data Cleaning, Exploratory Analysis, Pivot Tables, and a complete interactive dashboard with slicers, key findings, visual charts and KPIs.
+
 This project demonstrates: raw data exploration, data cleaning performance and preparation, and transformation of the manipulated dataset into meaningful business insights through analytical skills and dashboard visualization.
 
 ## Dashboard Preview
