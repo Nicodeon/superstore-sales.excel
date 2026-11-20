@@ -47,6 +47,7 @@ Combined Charts and key findings into a visual dashboard for interpretation.
 
 ### Original Dataset
 ![05_Raw Data](screenshots/01_raw_data.png)
+
 Source: [Superstore Sales Dataset](https://www.mathewkanalytics.com/datasets/superstore-sales/)
 
 ### Cleaned Dataset
