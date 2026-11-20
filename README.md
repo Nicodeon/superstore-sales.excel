@@ -41,11 +41,11 @@ Combined Charts and key findings into a visual dashboard for interpretation.
 ## Screenshots
 
 ### Original Dataset
-![Raw Data](screenshots/01_raw_data.png)
+![05_Raw Data](screenshots/01_raw_data.png)
 Source: [Superstore Sales Dataset](https://www.mathewkanalytics.com/datasets/superstore-sales/)
 
 ### Cleaned Dataset
-![Clean Data](screenshots/02_clean_data.png)
+![04_Clean Data](screenshots/02_clean_data.png)
 
 ### Analysis
 ![01_Analysis](screenshots/03_analysis.png)
