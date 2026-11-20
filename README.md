@@ -20,10 +20,10 @@ This project demonstrates: raw data exploration, data cleaning performance and p
 ## Project Structure
 
 The workbook contains the following worksheets:
-| Raw Data : Original, unmodified sales dataset 
-| Clean Data : Cleaned dataset with some calculations 
-| Analysis 1-3(chronological) : Analytical PivotTables, aggregations and findings 
-| Dashboard : Visual representation, an all-encompassing report 
+Raw Data : Original, unmodified sales dataset 
+Clean Data : Cleaned dataset with some calculations 
+Analysis 1-3(chronological) : Analytical PivotTables, aggregations and findings 
+Dashboard : Visual representation, an all-encompassing report 
 
 ## Analysis Process
 **1. Data Preparation**
