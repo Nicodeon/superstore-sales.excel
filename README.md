@@ -46,21 +46,21 @@ Combined Charts and key findings into a visual dashboard for interpretation.
 ## Screenshots
 
 ### Original Dataset
-![05_Raw Data](screenshots/01_raw_data.png)
+![05_Raw Data](screenshots/05_Raw_Data.png)
 
 Source: [Superstore Sales Dataset](https://www.mathewkanalytics.com/datasets/superstore-sales/)
 
 ### Cleaned Dataset
-![04_Clean Data](screenshots/02_clean_data.png)
+![04_Clean Data](screenshots/04_Clean_Data.png)
 
 ### Analysis
-![01_Analysis](screenshots/03_analysis.png)
+![01_Analysis](screenshots/01_Analysis.png)
 
-![02_Analysis](screenshots/04_analysis.png)
+![02_Analysis](screenshots/02_Analysis.png)
 
-![03_Analysis](screenshots/05_analysis_details.png)
+![03_Analysis](screenshots/03_Analysis.png)
 
-![00_Dashboard](screenshots/05_analysis_details.png)
+![00_Dashboard](screenshots/00_Dashboard.png)
 
 ## Project Files
 
