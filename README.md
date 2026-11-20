@@ -28,15 +28,19 @@ The workbook contains the following worksheets:
 
 ## Analysis Process
 **1. Data Preparation**
+
 Reviewed and cleaned the original ~10k-row dataset to prepare it for proper analysis. 
 
 **2. Data Analysis**
+
 Looked into sales performance, product categories, and other relevant business indicators.
 
 **3. Data Aggregation**
+
 Explored multiple Pivot Tables and Pivot Charts to summarize and compare the information.
 
 **4. Dashboard Development**
+
 Combined Charts and key findings into a visual dashboard for interpretation.
 
 ## Screenshots
